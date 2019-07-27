@@ -1,0 +1,11 @@
+what is a variable
+
+: a variable is container.
+so we can put inside in it and change content.
+a variable has it own name
+and it should be a noun.
+
+EX) name = minsoo
+     age = 22
+     favorite food = pizza
+        
